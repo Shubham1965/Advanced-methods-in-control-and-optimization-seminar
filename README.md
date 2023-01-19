@@ -35,6 +35,6 @@ In this seminar, advanced methods in the area of control and optimization are st
 4. Introduce line search and regularization techniques to improve the convergence properties of DDP.
 5. Implement Differential Dynamic Programming for an example.
 
-**Contents of the Repo:** (Under process)
-1. Latex project folder and pdf
+**Contents of the Repo:** 
+1. Latex project folder for the presentation and the report aling with separate pdfs.
 2. Implementation of DDP using JAX in Python.
