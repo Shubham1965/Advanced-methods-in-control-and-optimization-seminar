@@ -23,7 +23,7 @@ In this seminar, advanced methods in the area of control and optimization are st
 
 **Assigned Paper:**
 1. **Title:** Synthesis and stabilization of complex behaviors through online trajectory optimization.
-2.**Authors:** Tassa, Yuval and Erez, Tom and Todorov, Emanuel
+2. **Authors:** Tassa, Yuval and Erez, Tom and Todorov, Emanuel
 3. **Link:** https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf
 4. **Supervisor:** Dennis Gramlich
 5. **Synonpsis:** The paper is about an online trajectory optimization method and software platform applicable to complex humanoid robots performing challenging tasks such as getting up from an arbitrary pose on the ground and recovering from large disturbances using dexterous acrobatic maneuvers. 
